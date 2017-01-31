@@ -1,0 +1,1 @@
+[] execVM "tf47\init.sqf";

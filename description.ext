@@ -1,0 +1,6 @@
+#include "TF47\ACE\aceSettings.hpp"
+
+class RscTitles 
+{
+	#include "tf47\misc\introDlgRsc.hpp"
+};
